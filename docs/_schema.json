@@ -1,0 +1,15 @@
+{
+  "name": "Docs",
+  "fields": {
+    "content": {
+      "display": "Content",
+      "fields": [
+        {
+          "handle": "ssss",
+          "display": "ssss",
+          "type": "boolean"
+        }
+      ]
+    }
+  }
+}
